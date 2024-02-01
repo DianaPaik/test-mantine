@@ -1,0 +1,25 @@
+.card {
+  background-color: var(--mantine-color-body);
+}
+
+.avatar {
+  border: rem(2px) solid var(--mantine-color-body);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.user-input {
+  width: 20%;
+  margin-top: 8px;
+}
+
+.login-btn {
+  width: 20%;
+  margin-top: 50px;
+}
